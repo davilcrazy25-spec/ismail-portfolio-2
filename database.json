@@ -1,0 +1,110 @@
+{
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Brand Identity Design",
+      "category": "branding",
+      "image": "https://via.placeholder.com/400x300/1a1a2e/16213e?text=Brand+Identity",
+      "description": "Complete brand identity package including logo, color scheme, and brand guidelines for a tech startup."
+    },
+    {
+      "id": 2,
+      "title": "Social Media Campaign",
+      "category": "social",
+      "image": "https://via.placeholder.com/400x300/1a1a2e/16213e?text=Social+Media",
+      "description": "Engaging social media graphics for a product launch campaign across multiple platforms."
+    },
+    {
+      "id": 3,
+      "title": "Logo Design",
+      "category": "logo",
+      "image": "https://via.placeholder.com/400x300/1a1a2e/16213e?text=Logo",
+      "description": "Modern and minimalist logo design for a tech startup focusing on simplicity and elegance."
+    },
+    {
+      "id": 4,
+      "title": "Banner Advertisement",
+      "category": "banner",
+      "image": "https://via.placeholder.com/400x300/1a1a2e/16213e?text=Banner",
+      "description": "Eye-catching banner design for digital advertising campaign with high conversion rates."
+    },
+    {
+      "id": 5,
+      "title": "Corporate Branding",
+      "category": "branding",
+      "image": "https://via.placeholder.com/400x300/1a1a2e/16213e?text=Corporate",
+      "description": "Professional branding package for a corporate client including all marketing materials."
+    },
+    {
+      "id": 6,
+      "title": "Product Logo",
+      "category": "logo",
+      "image": "https://via.placeholder.com/400x300/1a1a2e/16213e?text=Product",
+      "description": "Creative logo design for a new product line targeting young professionals."
+    }
+  ],
+  "about": {
+    "title": "Creative Graphic Designer",
+    "bio": "With over 5 years of experience in graphic design, I bring creativity and innovation to every project. My expertise spans across various design disciplines, from brand identity to digital marketing materials. I believe in the power of design to transform businesses and create meaningful connections with audiences. Every project is an opportunity to push creative boundaries and deliver exceptional results.",
+    "experience": 5
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "Logo Design",
+      "icon": "fas fa-palette",
+      "description": "Unique and memorable logos that capture your brand essence and leave a lasting impression."
+    },
+    {
+      "id": 2,
+      "title": "Social Media Design",
+      "icon": "fas fa-hashtag",
+      "description": "Engaging social media graphics that stop the scroll and drive engagement across all platforms."
+    },
+    {
+      "id": 3,
+      "title": "Branding",
+      "icon": "fas fa-certificate",
+      "description": "Complete brand identity packages including logos, color schemes, typography, and brand guidelines."
+    },
+    {
+      "id": 4,
+      "title": "Banner Design",
+      "icon": "fas fa-ad",
+      "description": "Eye-catching banner designs for websites, social media, and digital advertising campaigns."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "clientName": "John Doe",
+      "clientTitle": "CEO, Tech Startup",
+      "text": "Ismail delivered exceptional designs that perfectly captured our brand vision. His creativity and attention to detail are outstanding. Highly recommended!",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "clientName": "Sarah Miller",
+      "clientTitle": "Marketing Director",
+      "text": "Working with Ismail was a game-changer for our brand. His designs elevated our marketing materials and helped us stand out in a competitive market.",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "clientName": "Alex Chen",
+      "clientTitle": "Product Manager",
+      "text": "Ismail's creative approach and technical skills are unmatched. He delivered our project on time and exceeded our expectations in every way.",
+      "rating": 5
+    }
+  ],
+  "contact": {
+    "email": "ismail@design.com",
+    "phone": "+1 234 567 8900",
+    "whatsapp": "+1 234 567 8900",
+    "location": "New York, USA"
+  },
+  "admin": {
+    "username": "admin",
+    "password": "$2a$10$rOzJqQjQjQjQjQjQjQjQjOzJqQjQjQjQjQjQjQjQjQjQjQjQjQjQjQjQjQjO"
+  }
+}
